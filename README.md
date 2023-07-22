@@ -1,9 +1,9 @@
 # Hey there, I'm Bijay! 👋 
 <a href="https://www.linkedin.com/in/bjupreti/">
-  <img align="left" alt="Bijay's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Bijay's Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://twitter.com/bjupreti123">
-  <img align="left" alt="Bijay's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Bijay's Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bjupreti)
